@@ -45,3 +45,12 @@ build/
 
 ### Scala ###
 .bsp/
+/.idea/codeStyles/codeStyleConfig.xml
+/db/h2.mv.db
+/db/h2.trace.db
+/.idea/misc.xml
+/.idea/codeStyles/Project.xml
+/.idea/sbt.xml
+/.idea/scala_compiler.xml
+/.idea/scala_settings.xml
+/.idea/vcs.xml
